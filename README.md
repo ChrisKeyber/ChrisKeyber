@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/she/it/I/you/we/they
 - ⚡ Fun fact: is that I don't have any fun fact:)
 -->
-- 🔭 I’m currently working on nowhere
-- 🌱 I’m currently learning in nohwere
-- 👯 I’m looking to collaborate on myself
-- 🤔 I’m looking for help with myself
-- 💬 Ask me about nothing:)
-- 📫 How to reach me: youcannot@nohere.nope
-- 😄 Pronouns: he/she/it/I/you/we/they
-- ⚡ Fun fact: is that I don't have any fun fact:)
+Hobbyist
+Looking forward to learn how machine learn ;)
