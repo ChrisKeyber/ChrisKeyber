@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: is that I don't have any fun fact:)
 -->
 Hobbyist
-Looking forward to learn how machine learn ;)
+I just wanna get a job and don't starve
